@@ -2,7 +2,7 @@
 
 .page {
     display: grid;
-    grid-template-rows: 40% 30% 30%;
+    grid-template-rows: 45% 30% 25%;
     background-color: inherit;
     color: aliceblue;
     height: 100dvh;
