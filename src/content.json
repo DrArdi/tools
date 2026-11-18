@@ -1,14 +1,14 @@
 {
     "linux": [
         {
+            "name": "Arch Wiki",
+            "logo": "",
+            "link": "https://wiki.archlinux.org/title/Main_page"
+        },
+        {
             "name": "AUR",
             "logo": "https://imgs.search.brave.com/PGR1Dp_FQ67NrfPlRE1NetAxjVYfyxBeVtVnsEafSIc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzEzL0FyY2hfTGlu/dXhfJTIyQ3J5c3Rh/bCUyMl9pY29uLnN2/Zw",
             "link": "https://aur.archlinux.org/"
-        },
-        {
-            "name": "i3",
-            "logo": "https://imgs.search.brave.com/jSdeUmsiaQGmnmfjx9L3lC8vsc8aeG1CV9iNBmO5XrM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI3L0kzX3dpbmRv/d19tYW5hZ2VyX2xv/Z28uc3Zn",
-            "link": "https://i3wm.org/"
         },
         {
             "name": "Unixporn",
@@ -16,9 +16,9 @@
             "link": "https://www.reddit.com/r/unixporn/?rdt=45018"
         },
         {
-            "name": "Icomoon",
-            "logo": "https://imgs.search.brave.com/n0RB6BSW-VLU2X4c-Jer-rvg02h3tLLIB1ZsxUWZQzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9tb29uLWlj/b24tMjU2eDI1Ni13/NnZhY3hiOC5wbmc",
-            "link": "https://icomoon.io/app/#/select/font"
+            "name": "Explain Shell",
+            "logo": "",
+            "link": "https://explainshell.com/"
         }
     ],
     "design": [
@@ -38,9 +38,9 @@
             "link": "https://www.remove.bg/"
         },
         {
-            "name": "Color Palettes",
-            "logo": "https://imgs.search.brave.com/Ttjq5qwf8CS6MwEOh4d8vVc_O1YkJSSSQUytO1KQRG0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXZ0/b29scy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMTAv/Q29sb3JpemUuRGVz/aWduLUxvZ28tNzY4/eDc2OC5qcGc",
-            "link": "https://coolors.co/"
+            "name": "Themes",
+            "logo": "",
+            "link": "https://terminal.sexy/"
         }
     ],
     "uni": [
